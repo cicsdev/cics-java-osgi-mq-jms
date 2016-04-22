@@ -23,4 +23,4 @@ Code originally developed for this article which describes the full set up requi
 https://developer.ibm.com/cics/2015/06/04/using-mq-jms-in-a-cics-osgi-jvm-server/
 
 #License
-Please read the license.txt.
+Please read the license.
