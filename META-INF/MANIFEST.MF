@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hello Plug-in
+Bundle-SymbolicName: sample.jms
+Bundle-Version: 1.0.0
+Bundle-RequiredExecutionEnvironment: 
+ JavaSE-1.7
+Bundle-Activator: sample.jms.QAddBundleActivator
+Import-Package: com.ibm.cics.server,
+ javax.jms,
+ com.ibm.mq.jms,
+ com.sun.jndi.fscontext,
+ org.osgi.framework,
+ javax.naming.spi
+CICS-MainClass: 
+ sample.jms.QAdd

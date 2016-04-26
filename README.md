@@ -11,7 +11,7 @@ Sample artifacts for "Using MQ JMS in an OSGi JVM server" article referenced bel
 
 #Installation
 
-Import the code.zip file into CICS Explorer using the "Existing Projects into Workspace" option.
+Add the two java files in the sample/jms package and the MANIFEST.MF file into a project in your CICS Explorer. 
 Place the .bindings file onto your HFS ensuring that when you upload it using FTP you use the binary
 option to keep it in ASCII format.
 Update QAdd.java so that this line "environment.put(Context.PROVIDER_URL, "file:///u/mleming/jndi/");" 
