@@ -19,7 +19,7 @@ points to the .bindings file.
 
 ## Reference
 
-Code originally developed for this article which describes the full set up required (https://developer.ibm.com/cics/2015/06/04/using-mq-jms-in-a-cics-osgi-jvm-server)
+Code originally developed for this [article](https://github.com/cicsdev/blog-cics-java-mq-jms-osgi/blob/main/blog.md) which describes the full set up required
 
 ## License
 This project is licensed under [Apache License Version 2.0](LICENSE). 
